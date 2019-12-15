@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applicationSettings>
+  <group>org.smyld.apps</group>
+  <log>
+    <name />
+    <path />
+  </log>
+  <languages default="English">
+    <language name="English" />
+    <language name="German" />
+  </languages>
+</applicationSettings>

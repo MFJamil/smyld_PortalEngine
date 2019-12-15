@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.smyld.app.portalengine","l":"PEMavenPlugin"}]

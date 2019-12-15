@@ -1,0 +1,9 @@
+org/smyld/app/spe/service/PEManagerService.class
+org/smyld/app/spe/util/CommandLineHandler$CommandLineArgs.class
+org/smyld/app/spe/factory/SPEFactory.class
+org/smyld/app/spe/util/CommandLineHandler.class
+org/smyld/app/spe/util/PEConstants.class
+org/smyld/app/spe/factory/AbstractFactory.class
+org/smyld/app/spe/builders/gui/PESwtGUIBuilder.class
+org/smyld/app/spe/SPortalEngineApplication.class
+org/smyld/app/spe/builders/layout/PEXMLLayoutHandler.class
