@@ -1,7 +1,0 @@
-Invoking Maven for the goals: [org.apache.maven.plugins:maven-javadoc-plugin:2.9.1:javadoc] with no properties
-
-M2_HOME=/usr/share/maven
-MAVEN_OPTS=null
-JAVA_HOME=/media/mfjamil/Ubuntu_second/work/sdk/jdk/jdk-9.0.4/..
-JAVA_OPTS=null
-

@@ -1,7 +1,0 @@
-org.smyld.app
-org.smyld.app.annotations
-org.smyld.app.event
-org.smyld.gui.portal.engine
-org.smyld.gui.portal.engine.gui.builders
-org.smyld.gui.portal.engine.gui.builders.swing
-org.smyld.gui.portal.engine.sources

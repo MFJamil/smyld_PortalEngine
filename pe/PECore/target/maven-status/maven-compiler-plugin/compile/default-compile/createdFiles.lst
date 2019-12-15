@@ -1,4 +1,0 @@
-org/smyld/app/pe/input/json/PEAppJsonReader.class
-org/smyld/app/pe/input/xml/PEXmlFileReader.class
-org/smyld/app/pe/input/xml/PEAppXMLReader.class
-org/smyld/app/pe/input/yaml/PEAppYamlReader.class

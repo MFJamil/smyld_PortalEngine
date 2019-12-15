@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"org.smyld.app"},{"l":"org.smyld.app.annotations"},{"l":"org.smyld.app.event"},{"l":"org.smyld.gui.portal.engine"},{"l":"org.smyld.gui.portal.engine.gui.builders"},{"l":"org.smyld.gui.portal.engine.gui.builders.swing"},{"l":"org.smyld.gui.portal.engine.sources"}]
